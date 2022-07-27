@@ -5,4 +5,4 @@ https://datapane.com/reports/yklMEQA/aops-problems-fordisplay/?utm_medium=embed
 The data shows talents from different nationalities contesting in a math Olympiad.
 
 
-Disclaimer: This project is from @Geoclid tutorial.
+This project is from @Geoclid tutorial.
