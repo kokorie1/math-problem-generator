@@ -9,6 +9,7 @@ st.set_page_config(
 )
 
 set_bg('assets/background.jpg')
+
 head()
 
 if st.button('Bring it on!'):
