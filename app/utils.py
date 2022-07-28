@@ -35,7 +35,7 @@ def head():
 
     st.caption("""
          <p style='text-align: center'>
-         by <a href='https://medium.com/geoclid'>kokorie</a>
+         by <a href='https://medium.com/geoclid'>kokorie1</a>
          </p>
     """, unsafe_allow_html=True)
 
