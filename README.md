@@ -4,5 +4,4 @@ This project is a Streamlit less sophisticated app build to generate random math
 https://datapane.com/reports/yklMEQA/aops-problems-fordisplay/?utm_medium=embed
 The data shows talents from different nationalities contesting in a math Olympiad.
 
-
-This project is from @Geoclid tutorial.
+Special thanks to @Geoclid for insights.
